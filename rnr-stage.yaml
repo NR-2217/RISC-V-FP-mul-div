@@ -14,4 +14,4 @@ stage: fp_muldiv
 modules:
   fp_muldiv:
     source_files:
-      - FP_MulDiv/rtl.sv
+      - FP_MulDiv/fp_muldiv.sv
