@@ -1,4 +1,5 @@
-module fp_muldiv (
+module fp_muldiv 
+(
   input  logic        clk,
   input  logic        reset,
   input  logic        in_valid,
